@@ -1,0 +1,22 @@
+Last login: Thu May 10 20:12:57 on ttys000
+
+Papias-MacBook-Air:~ Paru$ cd desktop
+
+Papias-MacBook-Air:desktop Paru$ cd multitheading
+
+
+Papias-MacBook-Air:multitheading Paru$ ls
+Display.class		MultiThreading.java	Thread3.class
+Display.java		Thread1.class		Thread4.class
+MultiThreading.class	Thread2.class
+
+
+Papias-MacBook-Air:multitheading Paru$ java MultiThreading
+
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+ 
